@@ -1,2 +1,4 @@
-# minecraft-smp-discord-bot
-an old discord bot i made a while ago for a minecraft smp
+# Minecraft SMP Discord bot
+an old discord bot I made a while ago for a Minecraft SMP (Survival Multiplayer (server))
+
+yes the name of the SMP is PooSMP
